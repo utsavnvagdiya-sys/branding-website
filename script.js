@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const cursor = document.createElement('div');
     const cursorDot = document.createElement('div');
     cursor.classList.add('cursor');
-    cursorDot.classList.add('cursor-dot');
+    // cursorDot.classList.add('cursor-dot');
     document.body.appendChild(cursor);
     document.body.appendChild(cursorDot);
 
