@@ -625,7 +625,7 @@ section {
 
 .footer-divider {
     height: 1px;
-    background: rgba(255,255,255,0.05);
+    background: #888;
     margin-bottom: 30px;
 }
 
