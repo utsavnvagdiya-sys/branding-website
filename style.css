@@ -547,7 +547,10 @@ section {
 }
 
 @media (max-width: 768px) {
-    .container { padding: 0 30px; }
+        .container {
+        padding: 0 30px;
+        margin-bottom: -8rem;
+    }
     .nav-links { display: none; }
     .menu-toggle { display: flex; }
     .car-grid { grid-template-columns: 1fr; }
